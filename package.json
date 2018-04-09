@@ -1,0 +1,23 @@
+{
+  "name": "sitebot",
+  "version": "2.2.0",
+  "description": "SiteBot is an event driven website crawler.",
+  "author": {
+    "name": "Jay Goodfellow",
+    "email": "j.goodfellow@arcane.ws"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArcaneDigital/sitebot"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "keywords": ["website crawler", "spider", "site crawler", "bot", "site bot", "website"],
+  "dependencies": {
+    "bluebird": "3.5.1",
+    "cheerio": "0.22.0",
+    "got": "8.0.3",
+    "puppeteer": "1.0.0",
+    "urijs": "1.18.10"
+  }
+}
