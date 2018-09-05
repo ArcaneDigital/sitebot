@@ -12,12 +12,18 @@
   },
   "license": "MIT",
   "main": "index.js",
-  "keywords": ["website crawler", "spider", "site crawler", "bot", "site bot", "website"],
+  "keywords": [
+    "website crawler",
+    "spider",
+    "site crawler",
+    "bot",
+    "site bot",
+    "website"
+  ],
   "dependencies": {
     "bluebird": "3.5.1",
     "cheerio": "0.22.0",
     "got": "8.0.3",
-    "puppeteer": "1.0.0",
     "urijs": "1.18.10"
   }
 }
