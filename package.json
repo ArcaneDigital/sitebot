@@ -1,6 +1,6 @@
 {
   "name": "sitebot",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "SiteBot is an event driven website crawler.",
   "author": {
     "name": "Jay Goodfellow",
